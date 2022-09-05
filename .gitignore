@@ -1,6 +1,7 @@
 # replit
 .replit
 replit.nix
+.breakpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
