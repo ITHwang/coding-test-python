@@ -5,3 +5,5 @@ def jaden(word):
 def solution(string):
     words = [jaden(word.lower()) for word in string.split(' ')]
     return ' '.join(words)
+
+    
