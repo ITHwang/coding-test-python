@@ -10,4 +10,3 @@ Currently I use the platforms below:
 Currently I use the languages below:
 
 1. Python
-2. Bash Shell
